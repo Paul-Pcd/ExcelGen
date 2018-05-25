@@ -3,4 +3,4 @@
 
 ## openpyxl安装
   1. pip install --upgrade lxml
-  2 pip install openpyxl
+  2. pip install openpyxl
